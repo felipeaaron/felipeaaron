@@ -14,9 +14,10 @@ Hi there</br>I'm Felipe 🐱‍🐉
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeaaron-contreras/)
 </div>
 
-About me:
+### About me:
 
-### Top Languages and Tools:
+Top Languages and Tools:
+
 [![java](https://img.shields.io/badge/Java-BF0000?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-31A8FF?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=Angular&logoColor=white)](#)
