@@ -1,9 +1,8 @@
 <p align="left"> <img src=https://gpvc.arturio.dev/felipeaaron alt="felipeaaron" /> </p>
 <h1 align='center'>
-Hi there</br>I'm Felipe 🐱‍🐉
+Hi there</br>I'm Felipe 🐱‍🐉</h1>
 <p align='center'>
-  :smile: tesssssssssssssssssst
-    
+  :smile:
 </p>
 
 <div align='center'>
