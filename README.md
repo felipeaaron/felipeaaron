@@ -4,7 +4,7 @@ Hi there</br>I'm Felipe 🐱‍🐉
 <p align='center'>
   
 </p>
-
+<hr>
 <div align='center'>
   
   
