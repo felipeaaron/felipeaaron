@@ -7,16 +7,18 @@ Hi there</br>I'm Felipe 🐱‍🐉
 
 <p align='center'>
   :smile:
+    
 </p>
+
 <div align='center'>
 📫 How to reach me:
-
+    
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeaaron-contreras/)
 </div>
 
 ### About me:
 
-Top Languages and Tools:
+#### Top Languages and Tools:
 
 [![java](https://img.shields.io/badge/Java-BF0000?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-31A8FF?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
