@@ -3,14 +3,14 @@
 Hi there</br>I'm Felipe 🐱‍🐉
 
 
-:smile:
+
 
 <p align='center'>
-  
+  :smile:
 </p>
 <div align='center'>
-📫
-How to reach me:
+📫 How to reach me:
+
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeaaron-contreras/)
 </div>
 
